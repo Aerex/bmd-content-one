@@ -1,4 +1,4 @@
 # Create Your First Project
 ## Get started with ease
 
-Choose a UI Starter that best matches your use and customize the app using the UI Builder. Alternatively, download the code and use it as a starting point.
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large.
