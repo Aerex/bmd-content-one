@@ -4,8 +4,6 @@
 		"text" : "Create Project",
 		"link": "/mobile/create-project",
 		"icon": "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/teal-icon2.png",
-		"docIcon": "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/teal-icon2.png",
-		"docLink": "/mobile/create-project",
 		"description" : "Create your first project"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/teal.png",
