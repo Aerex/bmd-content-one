@@ -3,7 +3,7 @@
 		"type": "url",
 		"text" : "Create Project",
 		"link": "/mobile/create-project",
-		"newTab": true,
+		"newTab": false,
 		"icon": "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/teal-icon2.png",
 		"description" : "Create your first project"
 	},
